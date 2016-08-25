@@ -1,0 +1,280 @@
+D:\Work\ExpressHelper1011\ExpressHelper1011\bin\Release\ExpressHelper1011.exe
+D:\Work\ExpressHelper1011\ExpressHelper1011\bin\Release\ExpressHelper1011.pdb
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Main.resources
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Properties.Resources.resources
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe
+D:\Work\ExpressHelper1011\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.pdb
+D:\Work\ExpressHelper1011\ExpressHelper1011\bin\Release\DevExpress.Xpo.v11.1.dll
+D:\Work\ExpressHelper1011\ExpressHelper1011\bin\Release\DevExpress.Data.v11.1.dll
+D:\Work\ExpressHelper1011\ExpressHelper1011\bin\Release\DevExpress.Data.v11.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.pdb
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ExpressHelper1011.exe
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ExpressHelper1011.pdb
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Main.resources
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Properties.Resources.resources
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.licenses
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.config
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Charts.v12.1.Core.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Data.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Printing.v12.1.Core.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Utils.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Xpo.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v12.1.UI.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Data.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Printing.v12.1.Core.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Utils.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.Xpo.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v12.1.UI.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.Data.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.Data.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.Data.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.Data.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.Utils.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.Utils.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.Utils.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.Utils.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.Xpo.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.Xpo.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.Xpo.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.Xpo.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v12.1.UI.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.manifest
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ExpressHelper1011.application
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v12.1.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v12.1.xml
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\bin\Release\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.manifest
+D:\Work\ExpressHelper11\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.application
+F:\Work\ExpressHelper2013\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.config
+F:\Work\ExpressHelper2013\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe
+F:\Work\ExpressHelper2013\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.pdb
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.config
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.pdb
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.csprojResolveAssemblyReference.cache
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Main.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Properties.Resources.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.csproj.GenerateResource.Cache
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.licenses
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.manifest
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.application
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.pdb
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Charts.v13.1.Core.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Data.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Printing.v13.1.Core.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Utils.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Xpo.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.UI.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.Wizard.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraPrinting.v13.1.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Data.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Printing.v13.1.Core.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Utils.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Xpo.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.Wizard.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.UI.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraPrinting.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v13.1.xml
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Data.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Data.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Data.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Data.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Utils.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Utils.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Xpo.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Xpo.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Xpo.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Xpo.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.manifest
+D:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.application
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.config
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.pdb
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe.manifest
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.application
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.exe
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ExpressHelper1011.pdb
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Charts.v13.1.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Data.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Printing.v13.1.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Utils.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Xpo.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.UI.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.Wizard.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraPrinting.v13.1.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Data.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Printing.v13.1.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Utils.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.Xpo.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraBars.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.Wizard.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraCharts.v13.1.UI.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraEditors.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraPrinting.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraGrid.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraLayout.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\DevExpress.XtraNavBar.v13.1.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Data.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Data.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Data.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Data.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Printing.v13.1.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Printing.v13.1.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Printing.v13.1.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Printing.v13.1.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Utils.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Utils.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Utils.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Utils.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.Xpo.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.Xpo.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.Xpo.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.Xpo.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraBars.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraBars.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraBars.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraBars.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraCharts.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraCharts.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraCharts.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraCharts.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraEditors.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraEditors.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraEditors.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraEditors.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraPrinting.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraPrinting.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraGrid.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraGrid.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraGrid.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraGrid.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraLayout.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraLayout.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraLayout.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraLayout.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\de\DevExpress.XtraNavBar.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\es\DevExpress.XtraNavBar.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\bin\Release\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.csprojResolveAssemblyReference.cache
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Main.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.Properties.Resources.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.csproj.GenerateResource.Cache
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.licenses
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.exe.manifest
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper1011\obj\x86\Release\ExpressHelper1011.application

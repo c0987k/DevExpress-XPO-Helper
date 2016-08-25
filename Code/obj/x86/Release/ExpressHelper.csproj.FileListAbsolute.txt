@@ -1,0 +1,381 @@
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.exe.config
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.exe
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.pdb
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper2014.Properties.Resources.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.csproj.GenerateResource.Cache
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.exe.licenses
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.exe
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.pdb
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.csprojResolveAssemblyReference.cache
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper2014.MainWindow.Main.resources
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Charts.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Data.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Printing.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Xpo.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraBars.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.UI.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraEditors.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraGrid.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraLayout.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Data.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Printing.v13.2.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Xpo.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraBars.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.UI.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraEditors.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraGrid.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraLayout.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Data.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Data.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Data.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Data.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Printing.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Printing.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Printing.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Printing.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Utils.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Utils.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Utils.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Utils.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Xpo.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Xpo.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Xpo.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Xpo.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraBars.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraBars.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraBars.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraBars.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraCharts.v13.2.Wizard.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraCharts.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraCharts.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraCharts.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraCharts.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraEditors.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraEditors.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraEditors.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraEditors.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraPrinting.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraPrinting.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraLayout.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraLayout.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraLayout.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraLayout.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraNavBar.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraNavBar.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraNavBar.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraNavBar.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.SpellChecker.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraSpellChecker.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.SpellChecker.v13.2.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraSpellChecker.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraSpellChecker.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraSpellChecker.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraSpellChecker.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraSpellChecker.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Office.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.UI.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Office.v13.2.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.UI.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Office.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Office.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Office.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Office.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.RichEdit.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.RichEdit.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.RichEdit.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.RichEdit.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Sparkline.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Sparkline.v13.2.Core.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.Utils.v13.2.UI.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.Utils.v13.2.UI.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.Utils.v13.2.UI.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.Utils.v13.2.UI.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraRichEdit.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraRichEdit.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraRichEdit.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraRichEdit.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraTreeList.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraTreeList.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraTreeList.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraTreeList.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\de\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\es\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ja\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+W:\Dropbox\Work VS 2013\ExpressHelper\ExpressHelper\bin\Release\ru\DevExpress.XtraVerticalGrid.v13.2.resources.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.exe.config
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.exe
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.pdb
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.exe
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\ExpressHelper.pdb
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Charts.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Data.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Office.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Printing.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.SpellChecker.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.UI.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Xpo.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraBars.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.UI.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraEditors.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraGrid.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraLayout.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraSpellChecker.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Data.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Office.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Printing.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.SpellChecker.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Utils.v13.2.UI.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.Xpo.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraBars.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraCharts.v13.2.UI.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraEditors.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraGrid.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraLayout.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraSpellChecker.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.csprojResolveAssemblyReference.cache
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper2014.MainWindow.Main.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper2014.Properties.Resources.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.csproj.GenerateResource.Cache
+C:\Dropbox\CSharpDevelopment\ExpressHelper\ExpressHelper\obj\x86\Release\ExpressHelper.exe.licenses
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe.config
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.pdb
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.pdb
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Charts.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v13.2.Core.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v13.2.UI.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.UI.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v13.2.dll
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v13.2.Core.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v13.2.UI.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.Wizard.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v13.2.UI.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v13.2.xml
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csprojResolveAssemblyReference.cache
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.MainWindow.Main.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.Properties.Resources.resources
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csproj.GenerateResource.Cache
+C:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe.licenses
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe.config
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.pdb
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Charts.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.UI.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.UI.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Core.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Drawing.dll
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.UI.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.UI.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Core.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Drawing.xml
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csprojResolveAssemblyReference.cache
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.MainWindow.Main.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.Properties.Resources.resources
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csproj.GenerateResource.Cache
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe.licenses
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe
+C:\_CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.pdb
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe.config
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.pdb
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.exe
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\ExpressHelper.pdb
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Charts.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.UI.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.UI.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v15.2.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Core.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Drawing.dll
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Data.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Office.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Printing.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.RichEdit.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Sparkline.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.SpellChecker.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Utils.v15.2.UI.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Xpo.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraBars.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.Wizard.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraCharts.v15.2.UI.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraEditors.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraPrinting.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraGrid.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraLayout.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraNavBar.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraRichEdit.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraSpellChecker.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraTreeList.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.XtraVerticalGrid.v15.2.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Core.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\bin\Release\DevExpress.Pdf.v15.2.Drawing.xml
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csprojResolveAssemblyReference.cache
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetBlockText.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetFromDropDown.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.GetLine.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper1011.Library.Notice.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.MainWindow.Main.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper2014.Properties.Resources.resources
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.csproj.GenerateResource.Cache
+W:\Dropbox\CSharpDevelopment\ExpressHelper\Code\obj\x86\Release\ExpressHelper.exe.licenses
