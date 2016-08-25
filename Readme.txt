@@ -1,4 +1,4 @@
-Express Helper is a program I use when working with Develexpress XPO databasess.  
+Express Helper is a program I use when working with DevExpress XPO databases.  
 
 It creates database entries that use the following string extension
 
