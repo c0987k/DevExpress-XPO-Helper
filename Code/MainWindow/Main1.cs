@@ -82,8 +82,8 @@ namespace ExpressHelper2014.MainWindow
 [Size({3})]
 public {0} {1}
                     {{
-                        get {{ return _{2}; }}
-                        set {{ SetPropertyValue(""{1}"", ref _{2}, value.csLeft({3})); }}
+                        get=> _{2}; 
+                        set => SetPropertyValue(""{1}"", ref _{2}, value.csLeft({3}));
                     }}
 ";
                         s = string.Format(s, cbClassOne.Text, tbPropertyNameOne.Text, tbPropertyNameOne.Text.ToLower(), tbMaxLength.Text);
@@ -95,8 +95,8 @@ public {0} {1}
                            @"private {0} _{2};
 public {0} {1}
                     {{
-                        get {{ return _{2}; }}
-                        set {{ SetPropertyValue(""{1}"", ref _{2}, value); }}
+                        get => _{2}; 
+                        set => SetPropertyValue(""{1}"", ref _{2}, value); 
                     }}
 ";
                         s = string.Format(s, cbClassOne.Text, tbPropertyNameOne.Text, tbPropertyNameOne.Text.ToLower());
@@ -113,8 +113,8 @@ public {0} {1}
 [Association(""{3}"",typeof({4}))]
 public {0} {1}
                     {{
-                        get {{ return _{2}; }}
-                        set {{ SetPropertyValue(""{1}"", ref _{2}, value); }}
+                        get => _{2}; 
+                        set => SetPropertyValue(""{1}"", ref _{2}, value);
                     }}
 ";
                     s = string.Format(s, cbClassOne.Text, tbPropertyNameOne.Text, tbPropertyNameOne.Text.ToLower(), tbRelationshipName.Text, cbClassOne.Text);
@@ -124,8 +124,8 @@ public {0} {1}
 [Association(""{3}"",typeof({4}))]
 public {0} {1}
                     {{
-                        get {{ return _{2}; }}
-                        set {{ SetPropertyValue(""{1}"", ref _{2}, value); }}
+                        get => _{2}; }}
+                        set => SetPropertyValue(""{1}"", ref _{2}, value); 
                     }}
 ";
                     s = string.Format(s, tbClassTwo.Text, tbPropertyNameTwo.Text, tbPropertyNameTwo.Text.ToLower(), tbRelationshipName.Text, tbClassTwo.Text);
@@ -140,7 +140,7 @@ public {0} {1}
                     @"[Association(""{0}"")]
         public XPCollection<{2}> {3} 
 {{ 
-get {{ return GetCollection<{4}>(""{5}""); }} 
+get => GetCollection<{4}>(""{5}""); 
 }}
 ";
 
@@ -158,8 +158,8 @@ get {{ return GetCollection<{4}>(""{5}""); }}
 [Association(""{0}"")]
 public {2} {5}
                     {{
-                        get {{ return _{6}; }}
-                        set {{ SetPropertyValue(""{5}"", ref _{6}, value); }}
+                        get => _{6}; 
+                        set => SetPropertyValue(""{5}"", ref _{6}, value); 
                     }}
 ";
                     s = string.Format(s
@@ -181,7 +181,7 @@ public {2} {5}
                            @"[Association(""{0}"")]
         public XPCollection<{2}> {3} 
 {{
-get {{ return GetCollection<{4}>(""{5}""); }}
+get => GetCollection<{4}>(""{5}""); 
 }}
 ";
 
@@ -199,7 +199,7 @@ get {{ return GetCollection<{4}>(""{5}""); }}
                     s = @"[Association(""{0}"")]
         public XPCollection<{2}> {3} 
 {{ 
-get {{ return GetCollection<{4}>(""{5}""); }}
+get => GetCollection<{4}>(""{5}""); 
 }}
 ";
 
