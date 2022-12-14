@@ -64,7 +64,7 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.ckbDropFirstLetter = new System.Windows.Forms.CheckBox();
             this.btnSwitch = new System.Windows.Forms.Button();
-            this.cbClassOne = new DevExpress.XtraEditors.ComboBoxEdit();
+            this.cbPropertyType = new DevExpress.XtraEditors.ComboBoxEdit();
             this.btnGenerateClass = new System.Windows.Forms.Button();
             this.tbClassName = new System.Windows.Forms.TextBox();
             this.tbClass = new System.Windows.Forms.TextBox();
@@ -75,7 +75,7 @@
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.cbClassOne.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cbPropertyType.Properties)).BeginInit();
             this.gbMaxLength.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -124,7 +124,7 @@
             // toggleOnTopToolStripMenuItem
             // 
             this.toggleOnTopToolStripMenuItem.Name = "toggleOnTopToolStripMenuItem";
-            this.toggleOnTopToolStripMenuItem.Size = new System.Drawing.Size(97, 20);
+            this.toggleOnTopToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
             this.toggleOnTopToolStripMenuItem.Text = "Toggle On Top";
             this.toggleOnTopToolStripMenuItem.Click += new System.EventHandler(this.toggleOnTopToolStripMenuItem_Click);
             // 
@@ -258,9 +258,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(137, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(32, 13);
+            this.label1.Size = new System.Drawing.Size(31, 13);
             this.label1.TabIndex = 22;
-            this.label1.Text = "Class";
+            this.label1.Text = "Type";
             // 
             // label2
             // 
@@ -332,15 +332,15 @@
             this.btnSwitch.UseVisualStyleBackColor = true;
             this.btnSwitch.Click += new System.EventHandler(this.btnSwitch_Click);
             // 
-            // cbClassOne
+            // cbPropertyType
             // 
-            this.cbClassOne.Location = new System.Drawing.Point(133, 60);
-            this.cbClassOne.Name = "cbClassOne";
-            this.cbClassOne.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            this.cbPropertyType.Location = new System.Drawing.Point(133, 60);
+            this.cbPropertyType.Name = "cbPropertyType";
+            this.cbPropertyType.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.cbClassOne.Size = new System.Drawing.Size(100, 20);
-            this.cbClassOne.TabIndex = 29;
-            this.cbClassOne.TextChanged += new System.EventHandler(this.cbClassOne_TextChanged_1);
+            this.cbPropertyType.Size = new System.Drawing.Size(100, 20);
+            this.cbPropertyType.TabIndex = 29;
+            this.cbPropertyType.TextChanged += new System.EventHandler(this.cbClassOne_TextChanged_1);
             // 
             // btnGenerateClass
             // 
@@ -428,7 +428,7 @@
             this.Controls.Add(this.tbClass);
             this.Controls.Add(this.tbClassName);
             this.Controls.Add(this.btnGenerateClass);
-            this.Controls.Add(this.cbClassOne);
+            this.Controls.Add(this.cbPropertyType);
             this.Controls.Add(this.btnSwitch);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.label4);
@@ -458,7 +458,7 @@
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.cbClassOne.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cbPropertyType.Properties)).EndInit();
             this.gbMaxLength.ResumeLayout(false);
             this.gbMaxLength.PerformLayout();
             this.ResumeLayout(false);
@@ -491,7 +491,7 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.CheckBox ckbDropFirstLetter;
         private System.Windows.Forms.Button btnSwitch;
-        private DevExpress.XtraEditors.ComboBoxEdit cbClassOne;
+        private DevExpress.XtraEditors.ComboBoxEdit cbPropertyType;
         private System.Windows.Forms.Button btnGenerateClass;
         private System.Windows.Forms.TextBox tbClassName;
         private System.Windows.Forms.TextBox tbClass;
